@@ -1,0 +1,320 @@
+Pasivo
+21 Obligaciones financieras
+2105 Bancos nacionales
+210505 Sobregiros
+210510 Pagarés
+210515 Cartas de crédito
+210520 Aceptaciones bancarias
+2110 Bancos del exterior
+211005 Sobregiros
+211010 Pagarés
+211015 Cartas de crédito
+211020 Aceptaciones bancarias
+2115 Corporaciones financieras
+211505 Pagarés
+211510 Aceptaciones financieras
+211515 Cartas de crédito
+211520 Contratos de arrendamiento financiero (leasing)
+2120 Compañías de financiamiento comercial
+212005 Pagarés
+212010 Aceptaciones financieras
+212020 Contratos de arrendamiento financiero (leasing)
+2125 Corporaciones de ahorro y vivienda
+212505 Sobregiros
+212510 Pagarés
+212515 Hipotecarias
+2130 Entidades financieras del exterior
+2135 Compromisos de recompra de inversiones negociadas
+213505 Acciones
+213510 Cuotas o partes de interés social
+213515 Bonos
+213520 Cédulas
+213525 Certificados
+213530 Papeles comerciales
+213535 Títulos
+213540 Aceptaciones bancarias o financieras
+213595 Otros
+2140 Compromisos de recompra de cartera negociada
+2145 Obligaciones gubernamentales
+214505 Gobierno Nacional
+214510 Entidades oficiales
+2195 Otras obligaciones
+219505 Particulares
+219510 Compañías vinculadas
+219515 Casa matriz
+219520 Socios o accionistas
+219525 Fondos y cooperativas
+219530 Directores
+219595 Otras
+22 Proveedores
+2205 Nacionales
+2210 Del exterior
+2215 Cuentas corrientes comerciales
+2220 Casa matriz
+2225 Compañías vinculadas
+23 Cuentas por pagar
+2305 Cuentas corrientes comerciales
+2310 A casa matriz
+2315 A compañías vinculadas
+2320 A contratistas
+2330 Órdenes de compra por utilizar
+2335 Costos y gastos por pagar
+233505 Gastos financieros
+233510 Gastos legales
+233515 Libros, suscripciones, periódicos y revistas
+233520 Comisiones
+233525 Honorarios
+233530 Servicios técnicos
+233535 Servicios de mantenimiento
+233540 Arrendamientos
+233545 Transportes, fletes y acarreos
+233550 Servicios públicos
+233555 Seguros
+233560 Gastos de viaje
+233565 Gastos de representación y relaciones públicas
+233570 Servicios aduaneros
+233595 Otros
+2340 Instalamentos por pagar
+2345 Acreedores oficiales
+2350 Regalías por pagar
+2355 Deudas con accionistas o socios
+235505 Accionistas
+235510 Socios
+2357 Deudas con directores
+2360 Dividendos o participaciones por pagar
+236005 Dividendos
+236010 Participaciones
+2365 Retención en la fuente
+236505 Salarios y pagos laborales
+236510 Dividendos y/o participaciones
+236515 Honorarios
+236520 Comisiones
+236525 Servicios
+236530 Arrendamientos
+236535 Rendimientos financieros
+236540 Compras
+236545 Loterías, rifas, apuestas y similares
+236550 Por pagos al exterior
+236555 Por ingresos obtenidos en el exterior
+236560 Enajenación propiedades planta y equipo, personas naturales
+236565 Por impuesto de timbre
+236570 Otras retenciones y patrimonio
+236575 Autorretenciones
+2367 Impuesto a las ventas retenido
+2368 Impuesto de industria y comercio retenido
+2370 Retenciones y aportes de nómina
+237005 Aportes a entidades promotoras de salud, EPS
+237006 Aportes a administradoras de riesgos profesionales, ARP
+237010 Aportes al ICBF, SENA y cajas de compensación
+237015 Aportes al FIC
+237025 Embargos judiciales
+237030 Libranzas
+237035 Sindicatos
+237040 Cooperativas
+237045 Fondos
+237095 Otros
+2375 Cuotas por devolver
+2380 Acreedores varios
+238005 Depositarios
+238010 Comisionistas de bolsas
+238015 Sociedad administradora-Fondos de inversión
+238020 Reintegros por pagar
+238025 Fondo de perseverancia
+238030 Fondos de cesantías y/o pensiones
+238035 Donaciones asignadas por pagar
+238095 Otros
+24 Impuestos, gravámenes y tasas
+2404 De renta y complementarios
+240405 Vigencia fiscal corriente
+240410 Vigencias fiscales anteriores
+2408 Impuesto sobre las ventas por pagar
+2412 De industria y comercio
+241205 Vigencia fiscal corriente
+241210 Vigencias fiscales anteriores
+2416 A la propiedad raíz
+2420 Derechos sobre instrumentos públicos
+2424 De valorización
+242405 Vigencia fiscal corriente
+242410 Vigencias fiscales anteriores
+2428 De turismo
+2432 Tasa por utilización de puertos
+2436 De vehículos
+243605 Vigencia fiscal corriente
+243610 Vigencias fiscales anteriores
+2440 De espectáculos públicos
+2444 De hidrocarburos y minas
+244405 De hidrocarburos
+244410 De minas
+2448 Regalías e impuestos a la pequeña y mediana minería
+2452 A las exportaciones cafeteras
+2456 A las importaciones
+2460 Cuotas de fomento
+2464 De licores, cervezas y cigarrillos
+246405 De licores
+246410 De cervezas
+246415 De cigarrillos
+2468 Al sacrificio de ganado
+2472 Al azar y juegos
+2476 Gravámenes y regalías por utilización del suelo
+2495 Otros
+25 Obligaciones laborales
+2505 Salarios por pagar
+2510 Cesantías consolidadas
+251005 Ley laboral anterior
+251010 Ley 50 de 1990 y normas posteriores
+2515 Intereses sobre cesantías
+2520 Prima de servicios
+2525 Vacaciones consolidadas
+2530 Prestaciones extralegales
+253005 Primas
+253010 Auxilios
+253015 Dotación y suministro a trabajadores
+253020 Bonificaciones
+253025 Seguros
+253095 Otras
+2532 Pensiones por pagar
+2535 Cuotas partes pensiones de jubilación
+2540 Indemnizaciones laborales
+26 Pasivos estimados y provisiones
+2605 Para costos y gastos
+260505 Intereses
+260510 Comisiones
+260515 Honorarios
+260520 Servicios técnicos
+260525 Transportes, fletes y acarreos
+260530 Gastos de viaje
+260535 Servicios públicos
+260540 Regalías
+260545 Garantías
+260550 Materiales y repuestos
+260595 Otros
+2610 Para obligaciones laborales
+261005 Cesantías
+261010 Intereses sobre cesantías
+261015 Vacaciones
+261020 Prima de servicios
+261025 Prestaciones extralegales
+261030 Viáticos
+261095 Otras
+2615 Para obligaciones fiscales
+261505 De renta y complementarios
+261510 De industria y comercio
+261515 Tasa por utilización de puertos
+261520 De vehículos
+261525 De hidrocarburos y minas
+261595 Otros
+2620 Pensiones de jubilación
+262005 Cálculo actuarial pensiones de jubilación
+262010 Pensiones de jubilación por amortizar (DB)
+2625 Para obras de urbanismo
+262505 Acueducto y alcantarillado
+262510 Energía eléctrica
+262515 Teléfonos
+262595 Otros
+2630 Para mantenimiento y reparaciones
+263005 Terrenos
+263010 Construcciones y edificaciones
+263015 Maquinaria y equipo
+263020 Equipo de oficina
+263025 Equipo de computación y comunicación
+263030 Equipo médico-científico
+263035 Equipo de hoteles y restaurantes
+263040 Flota y equipo de transporte
+263045 Flota y equipo fluvial y/o marítimo
+263050 Flota y equipo aéreo
+263055 Flota y equipo férreo
+263060 Acueductos, plantas y redes
+263065 Armamento de vigilancia
+263070 Envases y empaques
+263075 Plantaciones agrícolas y forestales
+263080 Vías de comunicación
+263085 Pozos artesianos
+263095 Otros
+2635 Para contingencias
+263505 Multas y sanciones autoridades administrativas
+263510 Intereses por multas y sanciones
+263515 Reclamos
+263520 Laborales
+263525 Civiles
+263530 Penales
+263535 Administrativos
+263540 Comerciales
+263595 Otras
+2640 Para obligaciones de garantías
+2695 Provisiones diversas
+269505 Para beneficencia
+269510 Para comunicaciones
+269515 Para pérdida en transporte
+269520 Para operación
+269525 Para protección de bienes agotables
+269530 Para ajustes en redención de unidades
+269535 Autoseguro
+269540 Planes y programas de reforestación y electrificación
+269595 Otras
+27 Diferidos
+2705 Ingresos recibidos por anticipado
+270505 Intereses
+270510 Comisiones
+270515 Arrendamientos
+270520 Honorarios
+270525 Servicios técnicos
+270530 De suscriptores
+270535 Transportes, fletes y acarreos
+270540 Mercancía en tránsito ya vendida
+270545 Matrículas y pensiones
+270550 Cuotas de administración
+270595 Otros
+2710 Abonos diferidos
+271005 Reajuste del sistema
+2715 Utilidad diferida en ventas a plazos
+2720 Crédito por corrección monetaria diferida
+2725 Impuestos diferidos
+272505 Por depreciación flexible
+272595 Diversos
+272599 Ajustes por inflación
+28 Otros pasivos
+2805 Anticipos y avances recibidos
+280505 De clientes
+280510 Sobre contratos
+280515 Para obras en proceso
+280595 Otros
+2810 Depósitos recibidos
+281005 Para futura suscripción de acciones
+281010 Para futuro pago de cuotas o derechos sociales
+281015 Para garantía en la prestación de servicios
+281020 Para garantía de contratos
+281025 De licitaciones
+281030 De manejo de bienes
+281035 Fondo de reserva
+281095 Otros
+2815 Ingresos recibidos para terceros
+281505 Valores recibidos para terceros
+281510 Venta por cuenta de terceros
+2820 Cuentas de operación conjunta
+2825 Retenciones a terceros sobre contratos
+282505 Cumplimiento obligaciones laborales
+282510 Para estabilidad de obra
+282515 Garantía cumplimiento de contratos
+2830 Embargos judiciales
+283005 Indemnizaciones
+283010 Depósitos judiciales
+2835 Acreedores del sistema
+283505 Cuotas netas
+283510 Grupos en formación
+2840 Cuentas en participación
+2895 Diversos
+289505 Préstamos de productos
+289510 Reembolso de costos exploratorios
+289515 Programa de extensión agropecuaria
+29 Bonos y papeles comerciales
+2905 Bonos en circulación
+2910 Bonos obligatoriamente convertibles en acciones
+2915 Papeles comerciales
+2920 Bonos pensionales
+292005 Valor bonos pensionales
+292010 Bonos pensionales por amortizar (DB)
+292015 Intereses causados sobre bonos pensionales
+2925 Títulos pensionales
+292505 Valor títulos pensionales
+292510 Títulos pensionales por amortizar (DB)
+292515 Intereses causados sobre títulos pensionales

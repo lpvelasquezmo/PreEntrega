@@ -1,0 +1,5 @@
+Costos de producción o de operación
+71 Materia prima
+72 Mano de obra directa
+73 Costos indirectos
+74 Contratos de servicios

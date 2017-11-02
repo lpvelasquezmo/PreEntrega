@@ -1,0 +1,504 @@
+Ingresos
+41 Operacionales
+4105 Agricultura, ganadería, caza y silvicultura
+410505 Cultivo de cereales
+410510 Cultivos de hortalizas, legumbres y plantas ornamentales
+410515 Cultivos de frutas, nueces y plantas aromáticas
+410520 Cultivo de café
+410525 Cultivo de flores
+410530 Cultivo de caña de azúcar
+410535 Cultivo de algodón y plantas para material textil
+410540 Cultivo de banano
+410545 Otros cultivos agrícolas
+410550 Cría de ovejas, cabras, asnos, mulas y burdéganos
+410555 Cría de ganado caballar y vacuno
+410560 Producción avícola
+410565 Cría de otros animales
+410570 Servicios agrícolas y ganaderos
+410575 Actividad de caza
+410580 Actividad de silvicultura
+410595 Actividades conexas
+410599 Ajustes por inflación
+4110 Pesca
+411005 Actividad de pesca
+411010 Explotación de criaderos de peces
+411095 Actividades conexas
+411099 Ajustes por inflación
+4115 Explotación de minas y canteras
+411505 Carbón
+411510 Petróleo crudo
+411512 Gas natural
+411514 Servicios relacionados con extracción de petróleo y gas
+411515 Minerales de hierro
+411520 Minerales metalíferos no ferrosos
+411525 Piedra, arena y arcilla
+411527 Piedras preciosas
+411528 Oro
+411530 Otras minas y canteras
+411532 Prestación de servicios sector minero
+411595 Actividades conexas
+411599 Ajustes por inflación
+4120 Industrias manufactureras
+412001 Producción y procesamiento de carnes y productos cárnicos
+412002 Productos de pescado
+412003 Productos de frutas, legumbres y hortalizas
+412004 Elaboración de aceites y grasas
+412005 Elaboración de productos lácteos
+412006 Elaboración de productos de molinería
+412007 Elaboración de almidones y derivados
+412008 Elaboración de alimentos para animales
+412009 Elaboración de productos para panadería
+412010 Elaboración de azúcar y melazas
+412011 Elaboración de cacao, chocolate y confitería
+412012 Elaboración de pastas y productos farináceos
+412013 Elaboración de productos de café
+412014 Elaboración de otros productos alimenticios
+412015 Elaboración de bebidas alcohólicas y alcohol etílico
+412016 Elaboración de vinos
+412017 Elaboración de bebidas malteadas y de malta
+412018 Elaboración de bebidas no alcohólicas
+412019 Elaboración de productos de tabaco
+412020 Preparación e hilatura de fibras textiles y tejeduría
+412021 Acabado de productos textiles
+412022 Elaboración de artículos de materiales textiles
+412023 Elaboración de tapices y alfombras
+412024 Elaboración de cuerdas, cordeles, bramantes y redes
+412025 Elaboración de otros productos textiles
+412026 Elaboración de tejidos
+412027 Elaboración de prendas de vestir
+412028 Preparación, adobo y teñido de pieles
+412029 Curtido, adobo o preparación de cuero
+412030 Elaboración de maletas, bolsos y similares
+412031 Elaboración de calzado
+412032 Producción de madera, artículos de madera y corcho
+412033 Elaboración de pasta y productos de madera, papel y cartón
+412034 Ediciones y publicaciones
+412035 Impresión
+412036 Servicios relacionados con la edición y la impresión
+412037 Reproducción de grabaciones
+412038 Elaboración de productos de horno de coque
+412039 Elaboración de productos de la refinación de petróleo
+412040 Elaboración de sustancias químicas básicas
+412041 Elaboración de abonos y compuestos de nitrógeno
+412042 Elaboración de plástico y caucho sintético
+412043 Elaboración de productos químicos de uso agropecuario
+412044 Elaboración de pinturas, tintas y masillas
+412045 Elaboración de productos farmacéuticos y botánicos
+412046 Elaboración de jabones, detergentes y preparados de tocador
+412047 Elaboración de otros productos químicos
+412048 Elaboración de fibras
+412049 Elaboración de otros productos de caucho
+412050 Elaboración de productos de plástico
+412051 Elaboración de vidrio y productos de vidrio
+412052 Elaboración de productos de cerámica, loza, piedra, arcilla y porcelana
+412053 Elaboración de cemento, cal y yeso
+412054 Elaboración de artículos de hormigón, cemento y yeso
+412055 Corte, tallado y acabado de la piedra
+412056 Elaboración de otros productos minerales no metálicos
+412057 Industrias básicas y fundición de hierro y acero
+412058 Productos primarios de metales preciosos y de metales no ferrosos
+412059 Fundición de metales no ferrosos
+412060 Fabricación de productos metálicos para uso estructural
+412061 Forja, prensado, estampado, laminado de metal y pulvimetalurgia
+412062 Revestimiento de metales y obras de ingeniería mecánica
+412063 Fabricación de artículos de ferretería
+412064 Elaboración de otros productos de metal
+412065 Fabricación de maquinaria y equipo
+412066 Fabricación de equipos de elevación y manipulación
+412067 Elaboración de aparatos de uso doméstico
+412068 Elaboración de equipo de oficina
+412069 Elaboración de pilas y baterías primarias
+412070 Elaboración de equipo de iluminación
+412071 Elaboración de otros tipos de equipo eléctrico
+412072 Fabricación de equipos de radio, televisión y comunicaciones
+412073 Fabricación de aparatos e instrumentos médicos
+412074 Fabricación de instrumentos de medición y control
+412075 Fabricación de instrumentos de óptica y equipo fotográfico
+412076 Fabricación de relojes
+412077 Fabricación de vehículos automotores
+412078 Fabricación de carrocerías para automotores
+412079 Fabricación de partes piezas y accesorios para automotores
+412080 Fabricación y reparación de buques y otras embarcaciones
+412081 Fabricación de locomotoras y material rodante para ferrocarriles
+412082 Fabricación de aeronaves
+412083 Fabricación de motocicletas
+412084 Fabricación de bicicletas y sillas de ruedas
+412085 Fabricación de otros tipos de transporte
+412086 Fabricación de muebles
+412087 Fabricación de joyas y artículos conexos
+412088 Fabricación de instrumentos de música
+412089 Fabricación de artículos y equipo para deporte
+412090 Fabricación de juegos y juguetes
+412091 Reciclamiento de desperdicios
+412095 Productos de otras industrias manufactureras
+412099 Ajustes por inflación
+4125 Suministro de electricidad, gas y agua
+412505 Generación, captación y distribución de energía eléctrica
+412510 Fabricación de gas y distribución de combustibles gaseosos
+412515 Captación, depuración y distribución de agua
+412595 Actividades conexas
+412599 Ajustes por inflación
+4130 Construcción
+413005 Preparación de terrenos
+413010 Construcción de edificios y obras de ingeniería civil
+413015 Acondicionamiento de edificios
+413020 Terminación de edificaciones
+413025 Alquiler de equipo con operarios
+413095 Actividades conexas
+413099 Ajustes por inflación
+4135 Comercio al por mayor y al por menor
+413502 Venta de vehículos automotores
+413504 Mantenimiento, reparación y lavado de vehículos automotores
+413506 Venta de partes, piezas y accesorios de vehículos automotores
+413508 Venta de combustibles sólidos, líquidos, gaseosos
+413510 Venta de lubricantes, aditivos, llantas y lujos para automotores
+413512 Venta a cambio de retribución o por contrata
+413514 Venta de insumos, materias primas agropecuarias y flores
+413516 Venta de otros insumos y materias primas no agropecuarias
+413518 Venta de animales vivos y cueros
+413520 Venta de productos en almacenes no especializados
+413522 Venta de productos agropecuarios
+413524 Venta de productos textiles, de vestir, de cuero y calzado
+413526 Venta de papel y cartón
+413528 Venta de libros, revistas, elementos de papelería, útiles y textos escolares
+413530 Venta de juegos, juguetes y artículos deportivos
+413532 Venta de instrumentos quirúrgicos y ortopédicos
+413534 Venta de artículos en relojerías y joyerías
+413536 Venta de electrodomésticos y muebles
+413538 Venta de productos de aseo, farmacéuticos, medicinales, y artículos de tocador
+413540 Venta de cubiertos, vajillas, cristalería, porcelanas, cerámicas y otros artículos de uso doméstico
+413542 Venta de materiales de construcción, fontanería y calefacción
+413544 Venta de pinturas y lacas
+413546 Venta de productos de vidrios y marquetería
+413548 Venta de herramientas y artículos de ferretería
+413550 Venta de químicos
+413552 Venta de productos intermedios, desperdicios y desechos
+413554 Venta de maquinaria, equipo de oficina y programas de computador
+413556 Venta de artículos en cacharrerías y misceláneas
+413558 Venta de instrumentos musicales
+413560 Venta de artículos en casas de empeño y prenderías
+413562 Venta de equipo fotográfico
+413564 Venta de equipo óptico y de precisión
+413566 Venta de empaques
+413568 Venta de equipo profesional y científico
+413570 Venta de loterías, rifas, chance, apuestas y similares
+413572 Reparación de efectos personales y electrodomésticos
+413595 Venta de otros productos
+413599 Ajustes por inflación
+4140 Hoteles y restaurantes
+414005 Hotelería
+414010 Campamento y otros tipos de hospedaje
+414015 Restaurantes
+414020 Bares y cantinas
+414095 Actividades conexas
+414099 Ajustes por inflación
+4145 Transporte, almacenamiento y comunicaciones
+414505 Servicio de transporte por carretera
+414510 Servicio de transporte por vía férrea
+414515 Servicio de transporte por vía acuática
+414520 Servicio de transporte por vía aérea
+414525 Servicio de transporte por tuberías
+414530 Manipulación de carga
+414535 Almacenamiento y depósito
+414540 Servicios complementarios para el transporte
+414545 Agencias de viaje
+414550 Otras agencias de transporte
+414555 Servicio postal y de correo
+414560 Servicio telefónico
+414565 Servicio de telégrafo
+414570 Servicio de transmisión de datos
+414575 Servicio de radio y televisión por cable
+414580 Transmisión de sonido e imágenes por contrato
+414595 Actividades conexas
+414599 Ajustes por inflación
+4150 Actividad financiera
+415005 Venta de inversiones
+415010 Dividendos de sociedades anónimas y/o asimiladas
+415015 Participaciones de sociedades limitadas y/o asimiladas
+415020 Intereses
+415025 Reajuste monetario-UPAC (hoy UVR)
+415030 Comisiones
+415035 Operaciones de descuento
+415040 Cuotas de inscripción-consorcios
+415045 Cuotas de administración-consorcios
+415050 Reajuste del sistema-consorcios
+415055 Eliminación de suscriptores-consorcios
+415060 Cuotas de ingreso o retiro-sociedad administradora
+415065 Servicios a comisionistas
+415070 Inscripciones y cuotas
+415075 Recuperación de garantías
+415080 Ingresos método de participación
+415095 Actividades conexas
+415099 Ajustes por inflación
+4155 Actividades inmobiliarias, empresariales y de alquiler
+415505 Arrendamientos de bienes inmuebles
+415510 Inmobiliarias por retribución o contrata
+415515 Alquiler equipo de transporte
+415520 Alquiler maquinaria y equipo
+415525 Alquiler de efectos personales y enseres domésticos
+415530 Consultoría en equipo y programas de informática
+415535 Procesamiento de datos
+415540 Mantenimiento y reparación de maquinaria de oficina
+415545 Investigaciones científicas y de desarrollo
+415550 Actividades empresariales de consultoría
+415555 Publicidad
+415560 Dotación de personal
+415565 Investigación y seguridad
+415570 Limpieza de inmuebles
+415575 Fotografía
+415580 Envase y empaque
+415585 Fotocopiado
+415590 Mantenimiento y reparación de maquinaria y equipo
+415595 Actividades conexas
+415599 Ajustes por inflación
+4160 Enseñanza
+416005 Actividades relacionadas con la educación
+416095 Actividades conexas
+416099 Ajustes por inflación
+4165 Servicios sociales y de salud
+416505 Servicio hospitalario
+416510 Servicio médico
+416515 Servicio odontológico
+416520 Servicio de laboratorio
+416525 Actividades veterinarias
+416530 Actividades de servicios sociales
+416595 Actividades conexas
+416599 Ajustes por inflación
+4170 Otras actividades de servicios comunitarios, sociales y personales
+417005 Eliminación de desperdicios y aguas residuales
+417010 Actividades de asociación
+417015 Producción y distribución de filmes y videocintas
+417020 Exhibición de filmes y videocintas
+417025 Actividad de radio y televisión
+417030 Actividad teatral, musical y artística
+417035 Grabación y producción de discos
+417040 Entretenimiento y esparcimiento
+417045 Agencias de noticias
+417050 Lavanderías y similares
+417055 Peluquerías y similares
+417060 Servicios funerarios
+417065 Zonas francas
+417095 Actividades conexas
+417099 Ajustes por inflación
+4175 Devoluciones en ventas (DB)
+417599 Ajustes por inflación
+42 No operacionales
+4205 Otras ventas
+420505 Materia prima
+420510 Material de desecho
+420515 Materiales varios
+420520 Productos de diversificación
+420525 Excedentes de exportación
+420530 Envases y empaques
+420535 Productos agrícolas
+420540 De propaganda
+420545 Productos en remate
+420550 Combustibles y lubricantes
+420599 Ajustes por inflación
+4210 Financieros
+421005 Intereses
+421010 Reajuste monetario-UPAC (hoy UVR)
+421015 Descuentos amortizados
+421020 Diferencia en cambio
+421025 Financiación vehículos
+421030 Financiación sistemas de viajes
+421035 Aceptaciones bancarias
+421040 Descuentos comerciales condicionados
+421045 Descuentos bancarios
+421050 Comisiones cheques de otras plazas
+421055 Multas y recargos
+421060 Sanciones cheques devueltos
+421095 Otros
+421099 Ajustes por inflación
+4215 Dividendos y participaciones
+421505 De sociedades anónimas y/o asimiladas
+421510 De sociedades limitadas y/o asimiladas
+421599 Ajustes por inflación
+4218 Ingresos método de participación
+421805 De sociedades anónimas y/o asimiladas
+421810 De sociedades limitadas y/o asimiladas
+4220 Arrendamientos
+422005 Terrenos
+422010 Construcciones y edificios
+422015 Maquinaria y equipo
+422020 Equipo de oficina
+422025 Equipo de computación y comunicación
+422030 Equipo médico-científico
+422035 Equipo de hoteles y restaurantes
+422040 Flota y equipo de transporte
+422045 Flota y equipo fluvial y/o marítimo
+422050 Flota y equipo aéreo
+422055 Flota y equipo férreo
+422060 Acueductos, plantas y redes
+422062 Envases y empaques
+422065 Plantaciones agrícolas y forestales
+422070 Aeródromos
+422075 Semovientes
+422099 Ajustes por inflación
+4225 Comisiones
+422505 Sobre inversiones
+422510 De concesionarios
+422515 De actividades financieras
+422520 Por venta de servicios de taller
+422525 Por venta de seguros
+422530 Por ingresos para terceros
+422535 Por distribución de películas
+422540 Derechos de autor
+422545 Derechos de programación
+422599 Ajustes por inflación
+4230 Honorarios
+423005 Asesorías
+423010 Asistencia técnica
+423015 Administración de vinculadas
+423099 Ajustes por inflación
+4235 Servicios
+423505 De báscula
+423510 De transporte
+423515 De prensa
+423520 Administrativos
+423525 Técnicos
+423530 De computación
+423535 De telefax
+423540 Taller de vehículos
+423545 De recepción de aeronaves
+423550 De transporte programa gas natural
+423555 Por contratos
+423560 De trilla
+423565 De mantenimiento
+423570 Al personal
+423575 De casino
+423580 Fletes
+423585 Entre compañías
+423595 Otros
+423599 Ajustes por inflación
+4240 Utilidad en venta de inversiones
+424005 Acciones
+424010 Cuotas o partes de interés social
+424015 Bonos
+424020 Cédulas
+424025 Certificados
+424030 Papeles comerciales
+424035 Títulos
+424045 Derechos fiduciarios
+424050 Obligatorias
+424095 Otras
+424099 Ajustes por inflación
+4245 Utilidad en venta de propiedades, planta y equipo
+424504 Terrenos
+424506 Materiales industria petrolera
+424508 Construcciones en curso
+424512 Maquinaria en montaje
+424516 Construcciones y edificaciones
+424520 Maquinaria y equipo
+424524 Equipo de oficina
+424528 Equipo de computación y comunicación
+424532 Equipo médico-científico
+424536 Equipo de hoteles y restaurantes
+424540 Flota y equipo de transporte
+424544 Flota y equipo fluvial y/o marítimo
+424548 Flota y equipo aéreo
+424552 Flota y equipo férreo
+424556 Acueductos, plantas y redes
+424560 Armamento de vigilancia
+424562 Envases y empaques
+424564 Plantaciones agrícolas y forestales
+424568 Vías de comunicación
+424572 Minas y Canteras
+424580 Pozos artesianos
+424584 Yacimientos
+424588 Semovientes
+424599 Ajustes por inflación
+4248 Utilidad en venta de otros bienes
+424805 Intangibles
+424810 Otros activos
+424899 Ajustes por inflación
+4250 Recuperaciones
+425005 Deudas malas
+425010 Seguros
+425015 Reclamos
+425020 Reintegro por personal en comisión
+425025 Reintegro garantías
+425030 Descuentos concedidos
+425035 De provisiones
+425040 Gastos bancarios
+425045 De depreciación
+425050 Reintegro de otros costos y gastos
+425099 Ajustes por inflación
+4255 Indemnizaciones
+425505 Por siniestro
+425510 Por suministros
+425515 Lucro cesante compañías de seguros
+425520 Daño emergente compañías de seguros
+425525 Por pérdida de mercancía
+425530 Por incumplimiento de contratos
+425535 De terceros
+425540 Por incapacidades ISS
+425595 Otras
+425599 Ajustes por inflación
+4260 Participaciones en concesiones
+426099 Ajustes por inflación
+4265 Ingresos de ejercicios anteriores
+426599 Ajustes por inflación
+4275 Devoluciones en otras ventas (DB)
+427599 Ajustes por inflación
+4295 Diversos
+429503 CERT
+429505 Aprovechamientos
+429507 Auxilios
+429509 Subvenciones
+429511 Ingresos por investigación y desarrollo
+429513 Por trabajos ejecutados
+429515 Regalías
+429517 Derivados de las exportaciones
+429519 Otros ingresos de explotación
+429521 De la actividad ganadera
+429525 Derechos y licitaciones
+429530 Ingresos por elementos perdidos
+429533 Multas y recargos
+429535 Preavisos descontados
+429537 Reclamos
+429540 Recobro de daños
+429543 Premios
+429545 Bonificaciones
+429547 Productos descontados
+429549 Reconocimientos ISS
+429551 Excedentes
+429553 Sobrantes de caja
+429555 Sobrantes en liquidación fletes
+429557 Subsidios estatales
+429559 Capacitación distribuidores
+429561 De escrituración
+429563 Registro promesas de venta
+429567 Útiles, papelería y fotocopias
+429571 Resultados, matrículas y traspasos
+429573 Decoraciones
+429575 Manejo de carga
+429579 Historia clínica
+429581 Ajuste al peso
+429583 Llamadas telefónicas
+429595 Otros
+429599 Ajustes por inflación
+47 Ajustes por inflación
+4705 Corrección monetaria
+470505 Inversiones (CR)
+470510 Inventarios (CR)
+470515 Propiedades, planta y equipo (CR)
+470520 Intangibles (CR)
+470525 Activos diferidos
+470530 Otros activos (CR)
+470535 Pasivos sujetos de ajuste
+470540 Patrimonio
+470545 Depreciación acumulada (DB)
+470550 Depreciación diferida (CR)
+470555 Agotamiento acumulado (DB)
+470560 Amortización acumulada (DB)
+470565 Ingresos operacionales (DB)
+470568 Devoluciones en ventas (CR)
+470570 Ingresos no operacionales (DB)
+470575 Gastos operacionales de administración (CR)
+470580 Gastos operacionales de ventas (CR)
+470585 Gastos no operacionales (CR)
+470590 Compras (CR)
+470591 Devoluciones en compras (DB)
+470592 Costo de ventas (CR)
+470594 Costos de producción o de operación (CR)

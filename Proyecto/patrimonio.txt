@@ -1,0 +1,115 @@
+Patrimonio
+31 Capital social
+3105 Capital suscrito y pagado
+310505 Capital autorizado
+310510 Capital por suscribir (DB)
+310515 Capital suscrito por cobrar (DB)
+3115 Aportes sociales
+311505 Cuotas o partes de interés social
+311510 Aportes de socios-fondo mutuo de inversión
+311515 Contribución de la empresa-fondo mutuo de inversión
+311520 Suscripciones del público
+3120 Capital asignado
+3125 Inversión suplementaria al capital asignado
+3130 Capital de personas naturales
+3135 Aportes del Estado
+3140 Fondo social
+32 Superávit de capital
+3205 Prima en colocación de acciones, cuotas o partes de interés social
+320505 Prima en colocación de acciones
+320510 Prima en colocación de acciones por cobrar (DB)
+320515 Prima en colocación de cuotas o partes de interés social
+3210 Donaciones
+321005 En dinero
+321010 En valores mobiliarios
+321015 En bienes muebles
+321020 En bienes inmuebles
+321025 En intangibles
+3215 Crédito mercantil
+3220 Know how
+3225 Superávit método de participación
+322505 De acciones
+322510 De cuotas o partes de interés social
+33 Reservas
+3305 Reservas obligatorias
+330505 Reserva legal
+330510 Reservas por disposiciones fiscales
+330515 Reserva para readquisición de acciones
+330516 Acciones propias readquiridas (DB)
+330517 Reserva para readquisición de cuotas o partes de interés social
+330518 Cuotas o partes de interés social propias readquiridas (DB)
+330520 Reserva para extensión agropecuaria
+330525 Reserva Ley 7ª de 1990
+330530 Reserva para reposición de semovientes
+330535 Reserva Ley 4ª de 1980
+330595 Otras
+3310 Reservas estatutarias
+331005 Para futuras capitalizaciones
+331010 Para reposición de activos
+331015 Para futuros ensanches
+331095 Otras
+3315 Reservas ocasionales
+331505 Para beneficencia y civismo
+331510 Para futuras capitalizaciones
+331515 Para futuros ensanches
+331520 Para adquisición o reposición de propiedades, planta y equipo
+331525 Para investigaciones y desarrollo
+331530 Para fomento económico
+331535 Para capital de trabajo
+331540 Para estabilización de rendimientos
+331545 A disposición del máximo órgano social
+331595 Otras
+34 Revalorización del patrimonio
+3405 Ajustes por inflación
+340505 De capital social
+340510 De superávit de capital
+340515 De reservas
+340520 De resultados de ejercicios anteriores
+340525 De activos en período improductivo
+340530 De saneamiento fiscal
+340535 De ajustes Decreto 3019 de 1989
+340540 De dividendos y participaciones decretadas en acciones, cuotas o partes de interés social
+340545 Superávit método de participación
+3410 Saneamiento fiscal
+3415 Ajustes por inflación Decreto 3019 de 1989
+35 Dividendos o participaciones decretados en acciones, cuotas o partes de interés social
+3505 Dividendos decretados en acciones
+3510 Participaciones decretadas en cuotas o partes de interés social
+36 Resultados del ejercicio
+3605 Utilidad del ejercicio
+3610 Pérdida del ejercicio
+37 Resultados de ejercicios anteriores
+3705 Utilidades acumuladas
+3710 Pérdidas acumuladas
+38 Superávit por valorizaciones
+3805 De inversiones
+380505 Acciones
+380510 Cuotas o partes de interés social
+380515 Derechos fiduciarios
+3810 De propiedades, planta y equipo
+381004 Terrenos
+381006 Materiales proyectos petroleros
+381008 Construcciones y edificaciones
+381012 Maquinaria y equipo
+381016 Equipo de oficina
+381020 Equipo de computación y comunicación
+381024 Equipo médico-científico
+381028 Equipo de hoteles y restaurantes
+381032 Flota y equipo de transporte
+381036 Flota y equipo fluvial y/o marítimo
+381040 Flota y equipo aéreo
+381044 Flota y equipo férreo
+381048 Acueductos, plantas y redes
+381052 Armamento de vigilancia
+381056 Envases y empaques
+381060 Plantaciones agrícolas y forestales
+381064 Vías de comunicación
+381068 Minas y canteras
+381072 Pozos artesianos
+381076 Yacimientos
+381080 Semovientes
+3895 De otros activos
+389505 Bienes de arte y cultura
+389510 Bienes entregados en comodato
+389515 Bienes recibidos en pago
+389520 Inventario de semovientes

@@ -1,0 +1,457 @@
+Gastos
+51 Operacionales de administración
+5105 Gastos de personal
+510503 Salario integral
+510506 Sueldos
+510512 Jornales
+510515 Horas extras y recargos
+510518 Comisiones
+510521 Viáticos
+510524 Incapacidades
+510527 Auxilio de transporte
+510530 Cesantías
+510533 Intereses sobre cesantías
+510536 Prima de servicios
+510539 Vacaciones
+510542 Primas extralegales
+510545 Auxilios
+510548 Bonificaciones
+510551 Dotación y suministro a trabajadores
+510554 Seguros
+510557 Cuotas partes pensiones de jubilación
+510558 Amortización cálculo actuarial pensiones de jubilación
+510559 Pensiones de jubilación
+510560 Indemnizaciones laborales
+510561 Amortización bonos pensionales
+510562 Amortización títulos pensionales
+510563 Capacitación al personal
+510566 Gastos deportivos y de recreación
+510568 Aportes a administradoras de riesgos profesionales, ARP
+510569 Aportes a entidades promotoras de salud, EPS
+510570 Aportes a fondos de pensiones y/o cesantías
+510572 Aportes cajas de compensación familiar
+510575 Aportes ICBF
+510578 SENA
+510581 Aportes sindicales
+510584 Gastos médicos y drogas
+510595 Otros
+510599 Ajustes por inflación
+5110 Honorarios
+511005 Junta directiva
+511010 Revisoría fiscal
+511015 Auditoría externa
+511020 Avalúos
+511025 Asesoría jurídica
+511030 Asesoría financiera
+511035 Asesoría técnica
+511095 Otros
+511099 Ajustes por inflación
+5115 Impuestos
+511505 Industria y comercio
+511510 De timbres
+511515 A la propiedad raíz
+511520 Derechos sobre instrumentos públicos
+511525 De valorización
+511530 De turismo
+511535 Tasa por utilización de puertos
+511540 De vehículos
+511545 De espectáculos públicos
+511550 Cuotas de fomento
+511570 IVA descontable
+511595 Otros
+511599 Ajustes por inflación
+5120 Arrendamientos
+512005 Terrenos
+512010 Construcciones y edificaciones
+512015 Maquinaria y equipo
+512020 Equipo de oficina
+512025 Equipo de computación y comunicación
+512030 Equipo médico-científico
+512035 Equipo de hoteles y restaurantes
+512040 Flota y equipo de transporte
+512045 Flota y equipo fluvial y/o marítimo
+512050 Flota y equipo aéreo
+512055 Flota y equipo férreo
+512060 Acueductos, plantas y redes
+512065 Aeródromos
+512070 Semovientes
+512095 Otros
+512099 Ajustes por inflación
+5125 Contribuciones y afiliaciones
+512505 Contribuciones
+512510 Afiliaciones y sostenimiento
+512599 Ajustes por inflación
+5130 Seguros
+513005 Manejo
+513010 Cumplimiento
+513015 Corriente débil
+513020 Vida colectiva
+513025 Incendio
+513030 Terremoto
+513035 Sustracción y hurto
+513040 Flota y equipo de transporte
+513045 Flota y equipo fluvial y/o marítimo
+513050 Flota y equipo aéreo
+513055 Flota y equipo férreo
+513060 Responsabilidad civil y extracontractual
+513065 Vuelo
+513070 Rotura de maquinaria
+513075 Obligatorio accidente de tránsito
+513080 Lucro cesante
+513085 Transporte de mercancía
+513095 Otros
+513099 Ajustes por inflación
+5135 Servicios
+513505 Aseo y vigilancia
+513510 Temporales
+513515 Asistencia técnica
+513520 Procesamiento electrónico de datos
+513525 Acueducto y alcantarillado
+513530 Energía eléctrica
+513535 Teléfono
+513540 Correo, portes y telegramas
+513545 Fax y télex
+513550 Transporte, fletes y acarreos
+513555 Gas
+513595 Otros
+513599 Ajustes por inflación
+5140 Gastos legales
+514005 Notariales
+514010 Registro mercantil
+514015 Trámites y licencias
+514020 Aduaneros
+514025 Consulares
+514095 Otros
+514099 Ajustes por inflación
+5145 Mantenimiento y reparaciones
+514505 Terrenos
+514510 Construcciones y edificaciones
+514515 Maquinaria y equipo
+514520 Equipo de oficina
+514525 Equipo de computación y comunicación
+514530 Equipo médico-científico
+514535 Equipo de hoteles y restaurantes
+514540 Flota y equipo de transporte
+514545 Flota y equipo fluvial y/o marítimo
+514550 Flota y equipo aéreo
+514555 Flota y equipo férreo
+514560 Acueductos, plantas y redes
+514565 Armamento de vigilancia
+514570 Vías de comunicación
+514599 Ajustes por inflación
+5150 Adecuación e instalación
+515005 Instalaciones eléctricas
+515010 Arreglos ornamentales
+515015 Reparaciones locativas
+515095 Otros
+515099 Ajustes por inflación
+5155 Gastos de viaje
+515505 Alojamiento y manutención
+515510 Pasajes fluviales y/o marítimos
+515515 Pasajes aéreos
+515520 Pasajes terrestres
+515525 Pasajes férreos
+515595 Otros
+515599 Ajustes por inflación
+5160 Depreciaciones
+516005 Construcciones y edificaciones
+516010 Maquinaria y equipo
+516015 Equipo de oficina
+516020 Equipo de computación y comunicación
+516025 Equipo médico-científico
+516030 Equipo de hoteles y restaurantes
+516035 Flota y equipo de transporte
+516040 Flota y equipo fluvial y/o marítimo
+516045 Flota y equipo aéreo
+516050 Flota y equipo férreo
+516055 Acueductos, plantas y redes
+516060 Armamento de vigilancia
+516099 Ajustes por inflación
+5165 Amortizaciones
+516505 Vías de comunicación
+516510 Intangibles
+516515 Cargos diferidos
+516595 Otras
+516599 Ajustes por inflación
+5195 Diversos
+519505 Comisiones
+519510 Libros, suscripciones, periódicos y revistas
+519515 Música ambiental
+519520 Gastos de representación y relaciones públicas
+519525 Elementos de aseo y cafetería
+519530 Útiles, papelería y fotocopias
+519535 Combustibles y lubricantes
+519540 Envases y empaques
+519545 Taxis y buses
+519550 Estampillas
+519555 Microfilmación
+519560 Casino y restaurante
+519565 Parqueaderos
+519570 Indemnización por daños a terceros
+519575 Pólvora y similares
+519595 Otros
+519599 Ajustes por inflación
+5199 Provisiones
+519905 Inversiones
+519910 Deudores
+519915 Propiedades, planta y equipo
+519995 Otros activos
+519999 Ajustes por inflación
+52 Operacionales de ventas
+5205 Gastos de personal
+520503 Salario integral
+520506 Sueldos
+520512 Jornales
+520515 Horas extras y recargos
+520518 Comisiones
+520521 Viáticos
+520524 Incapacidades
+520527 Auxilio de transporte
+520530 Cesantías
+520533 Intereses sobre cesantías
+520536 Prima de servicios
+520539 Vacaciones
+520542 Primas extralegales
+520545 Auxilios
+520548 Bonificaciones
+520551 Dotación y suministro a trabajadores
+520554 Seguros
+520557 Cuotas partes pensiones de jubilación
+520558 Amortización cálculo actuarial pensiones de jubilación
+520559 Pensiones de jubilación
+520560 Indemnizaciones laborales
+520561 Amortización bonos pensionales
+520562 Amortización títulos pensionales
+520563 Capacitación al personal
+520566 Gastos deportivos y de recreación
+520568 Aportes a administradoras de riesgos profesionales, ARP
+520569 Aportes a entidades promotoras de salud, EPS
+520570 Aportes a fondos de pensiones y/o cesantías
+520572 Aportes cajas de compensación familiar
+520575 Aportes ICBF
+520578 SENA
+520581 Aportes sindicales
+520584 Gastos médicos y drogas
+520595 Otros
+520599 Ajustes por inflación
+5210 Honorarios
+521005 Junta directiva
+521010 Revisoría fiscal
+521015 Auditoría externa
+521020 Avalúos
+521025 Asesoría jurídica
+521030 Asesoría financiera
+521035 Asesoría técnica
+521095 Otros
+521099 Ajustes por inflación
+5215 Impuestos
+521505 Industria y comercio
+521510 De timbres
+521515 A la propiedad raíz
+521520 Derechos sobre instrumentos públicos
+521525 De valorización
+521530 De turismo
+521535 Tasa por utilización de puertos
+521540 De vehículos
+521545 De espectáculos públicos
+521550 Cuotas de fomento
+521555 Licores
+521560 Cervezas
+521565 Cigarrillos
+521570 IVA descontable
+521595 Otros
+521599 Ajustes por inflación
+5220 Arrendamientos
+522005 Terrenos
+522010 Construcciones y edificaciones
+522015 Maquinaria y equipo
+522020 Equipo de oficina
+522025 Equipo de computación y comunicación
+522030 Equipo médico-científico
+522035 Equipo de hoteles y restaurantes
+522040 Flota y equipo de transporte
+522045 Flota y equipo fluvial y/o marítimo
+522050 Flota y equipo aéreo
+522055 Flota y equipo férreo
+522060 Acueductos, plantas y redes
+522065 Aeródromos
+522070 Semovientes
+522095 Otros
+522099 Ajustes por inflación
+5225 Contribuciones y afiliaciones
+522505 Contribuciones
+522510 Afiliaciones y sostenimiento
+522599 Ajustes por inflación
+5230 Seguros
+523005 Manejo
+523010 Cumplimiento
+523015 Corriente débil
+523020 Vida colectiva
+523025 Incendio
+523030 Terremoto
+523035 Sustracción y hurto
+523040 Flota y equipo de transporte
+523045 Flota y equipo fluvial y/o marítimo
+523050 Flota y equipo aéreo
+523055 Flota y equipo férreo
+523060 Responsabilidad civil y extracontractual
+523065 Vuelo
+523070 Rotura de maquinaria
+523075 Obligatorio accidente de tránsito
+523080 Lucro cesante
+523095 Otros
+523099 Ajustes por inflación
+5235 Servicios
+523505 Aseo y vigilancia
+523510 Temporales
+523515 Asistencia técnica
+523520 Procesamiento electrónico de datos
+523525 Acueducto y alcantarillado
+523530 Energía eléctrica
+523535 Teléfono
+523540 Correo, portes y telegramas
+523545 Fax y télex
+523550 Transporte, fletes y acarreos
+523555 Gas
+523560 Publicidad, propaganda y promoción
+523595 Otros
+523599 Ajustes por inflación
+5240 Gastos legales
+524005 Notariales
+524010 Registro mercantil
+524015 Trámites y licencias
+524020 Aduaneros
+524025 Consulares
+524095 Otros
+524099 Ajustes por inflación
+5245 Mantenimiento y reparaciones
+524505 Terrenos
+524510 Construcciones y edificaciones
+524515 Maquinaria y equipo
+524520 Equipo de oficina
+524525 Equipo de computación y comunicación
+524530 Equipo médico-científico
+524535 Equipo de hoteles y restaurantes
+524540 Flota y equipo de transporte
+524545 Flota y equipo fluvial y/o marítimo
+524550 Flota y equipo aéreo
+524555 Flota y equipo férreo
+524560 Acueductos, plantas y redes
+524565 Armamento de vigilancia
+524570 Vías de comunicación
+524599 Ajustes por inflación
+5250 Adecuación e instalación
+525005 Instalaciones eléctricas
+525010 Arreglos ornamentales
+525015 Reparaciones locativas
+525095 Otros
+525099 Ajustes por inflación
+5255 Gastos de viaje
+525505 Alojamiento y manutención
+525510 Pasajes fluviales y/o marítimos
+525515 Pasajes aéreos
+525520 Pasajes terrestres
+525525 Pasajes férreos
+525595 Otros
+525599 Ajustes por inflación
+5260 Depreciaciones
+526005 Construcciones y edificaciones
+526010 Maquinaria y equipo
+526015 Equipo de oficina
+526020 Equipo de computación y comunicación
+526025 Equipo médico-científico
+526030 Equipo de hoteles y restaurantes
+526035 Flota y equipo de transporte
+526040 Flota y equipo fluvial y/o marítimo
+526045 Flota y equipo aéreo
+526050 Flota y equipo férreo
+526055 Acueductos, plantas y redes
+526060 Armamento de vigilancia
+526065 Envases y empaques
+526099 Ajustes por inflación
+5265 Amortizaciones
+526505 Vías de comunicación
+526510 Intangibles
+526515 Cargos diferidos
+526595 Otras
+526599 Ajustes por inflación
+5270 Financieros-reajuste del sistema
+527099 Ajustes por inflación
+5275 Pérdidas método de participación
+527505 De sociedades anónimas y/o asimiladas
+527510 De sociedades limitadas y/o asimiladas
+5295 Diversos
+529505 Comisiones
+529510 Libros, suscripciones, periódicos y revistas
+529515 Música ambiental
+529520 Gastos de representación y relaciones públicas
+529525 Elementos de aseo y cafetería
+529530 Útiles, papelería y fotocopias
+529535 Combustibles y lubricantes
+529540 Envases y empaques
+529545 Taxis y buses
+529550 Estampillas
+529555 Microfilmación
+529560 Casino y restaurante
+529565 Parqueaderos
+529570 Indemnización por daños a terceros
+529575 Pólvora y similares
+529595 Otros
+529599 Ajustes por inflación
+5299 Provisiones
+529905 Inversiones
+529910 Deudores
+529915 Inventarios
+529920 Propiedades, planta y equipo
+529995 Otros activos
+529999 Ajustes por inflación
+53 No operacionales
+5305 Financieros
+530505 Gastos bancarios
+530510 Reajuste monetario-UPAC (hoy UVR)
+530515 Comisiones
+530520 Intereses
+530525 Diferencia en cambio
+530530 Gastos en negociación certificados de cambio
+530535 Descuentos comerciales condicionados
+530540 Gastos manejo y emisión de bonos
+530545 Prima amortizada
+530595 Otros
+530599 Ajustes por inflación
+5310 Pérdida en venta y retiro de bienes
+531005 Venta de inversiones
+531010 Venta de cartera
+531015 Venta de propiedades, planta y equipo
+531020 Venta de intangibles
+531025 Venta de otros activos
+531030 Retiro de propiedades, planta y equipo
+531035 Retiro de otros activos
+531040 Pérdidas por siniestros
+531095 Otros
+531099 Ajustes por inflación
+5313 Pérdidas método de participación
+531305 De sociedades anónimas y/o asimiladas
+531310 De sociedades limitadas y/o asimiladas
+5315 Gastos extraordinarios
+531505 Costas y procesos judiciales
+531510 Actividades culturales y cívicas
+531515 Costos y gastos de ejercicios anteriores
+531520 Impuestos asumidos
+531595 Otros
+531599 Ajustes por inflación
+5395 Gastos diversos
+539505 Demandas laborales
+539510 Demandas por incumplimiento de contratos
+539515 Indemnizaciones
+539520 Multas, sanciones y litigios
+539525 Donaciones
+539530 Constitución de garantías
+539535 Amortización de bienes entregados en comodato
+539595 Otros
+539599 Ajustes por inflación
+54 Impuesto de renta y complementarios
+5405 Impuesto de renta y complementarios
+540505 Impuesto de renta y complementarios
+59 Ganancias y pérdidas
+5905 Ganancias y pérdidas
+590505 Ganancias y pérdidas
